@@ -6,5 +6,7 @@ attempt to build a bookclub with ROR
 - [ ] users
 
 ##book
+book stats
 - [ ] image
 - [ ] description
+- [ ] rating
