@@ -1,11 +1,18 @@
 # bookclub
 attempt to build a bookclub with ROR
 
-##home
+##structure
+
+##pages
+
+###home
 - [ ] books
 - [ ] users
 
-##book
+###users
+- [ ]
+
+###book
 book stats
 - [ ] image
 - [ ] description
