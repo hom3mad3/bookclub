@@ -6,8 +6,8 @@ attempt to build a bookclub with ROR
 ##pages
 
 ###home
-- [ ] books
-- [ ] users
+- [x] books
+- [x] users
 
 ###users
 - [ ]
